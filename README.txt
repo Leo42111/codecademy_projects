@@ -1,0 +1,1 @@
+This is the place where I store my completed Codecademy projects.
