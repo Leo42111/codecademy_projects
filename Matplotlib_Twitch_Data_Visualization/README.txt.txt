@@ -1,1 +1,1 @@
-Small Matplotlib Project - Data Visualization
+Matplotlib project - small data visualization project on data from Twitch

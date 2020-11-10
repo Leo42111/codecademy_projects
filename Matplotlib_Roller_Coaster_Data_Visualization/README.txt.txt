@@ -1,1 +1,1 @@
-Matplotlib Project - Data Visualization Using Different Matplotlib/Seaborn Graphs
+Matplotlib project - data visualization using different Matplotlib/Seaborn graphs

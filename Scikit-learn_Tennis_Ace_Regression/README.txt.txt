@@ -1,1 +1,1 @@
-Scikit-learn Project - Linear Regression
+Scikit-learn project - linear regression project on tennis matches

@@ -1,0 +1,1 @@
+Seaborn project - data visualization on Netflix stocks data using Seaborn

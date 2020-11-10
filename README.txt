@@ -1,1 +1,1 @@
-This is the place where I store my completed Codecademy projects.
+Welcome! This is the place where I store my completed Codecademy projects related to data analysis.

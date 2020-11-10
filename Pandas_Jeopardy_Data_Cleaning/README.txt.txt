@@ -1,1 +1,1 @@
-Pandas Project - Small Project of Practising Data Cleaning
+Pandas project - small project on practising data cleaning

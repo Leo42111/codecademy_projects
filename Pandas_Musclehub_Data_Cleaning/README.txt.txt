@@ -1,2 +1,2 @@
-Pandas Project - Data Cleaning & Visualization
-Code in musclehub.ipynb (in Jupyter Notebook)
+Pandas project - data cleaning & visualization
+code in musclehub.ipynb (in Jupyter Notebook format)

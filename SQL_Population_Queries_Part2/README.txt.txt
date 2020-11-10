@@ -1,1 +1,1 @@
-SQL Project - write queries, use aggregate functions & merge tables
+SQL project - write queries, use aggregate functions & merge tables
