@@ -1,0 +1,1 @@
+Natural Language Processing project - use Term Frequency-Inverse Document Frequency (tf-idf) to identify important keywords on news with Scikit-learn
