@@ -1,0 +1,1 @@
+Natural Language Processing project - use bag-of-words to check who wrote target text with Scikit-learn
