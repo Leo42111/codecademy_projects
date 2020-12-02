@@ -1,0 +1,1 @@
+Scikit-learn project - Classification project of predicting income using Random Forest

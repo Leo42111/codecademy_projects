@@ -1,0 +1,1 @@
+Scikit-learn project - Classification project of baseball hit zone using SVM (Support Vector Machine)

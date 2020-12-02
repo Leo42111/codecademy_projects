@@ -1,0 +1,1 @@
+Scikit-learn project - Classification project of checking email similarity using Naive Bayes
