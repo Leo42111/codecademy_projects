@@ -1,1 +1,0 @@
-Scikit-learn project - 2 classification project on data from Twitter

@@ -1,1 +1,0 @@
-Scikit-learn project - unsupervised learning project on data from a survey about masculinity
