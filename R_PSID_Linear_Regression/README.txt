@@ -1,0 +1,1 @@
+R project - using linear regression to to predict income with social data
