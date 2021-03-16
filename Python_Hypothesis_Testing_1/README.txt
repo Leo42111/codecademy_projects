@@ -1,0 +1,1 @@
+Python project - hypothesis testing on sample statistics using one-sample t-test and binomial test
